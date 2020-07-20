@@ -7,7 +7,7 @@ I am a Computer Science Student at Sridevi Women's Engineering College
 
 Skills: C/C++/ JS / HTML / CSS
 
-🔭 I’m currently working on this page. 🌱 I’m currently learning Computer Science Engineering 📫 How to reach me: priyankavedurumudi@gmail.com 
+🌱 I’m currently learning Computer Science Engineering 📫 How to reach me: priyankavedurumudi@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VedurumudiPriyanka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/vedurumudipriyanka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vedurumudi-priyanka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/VedurumudiP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Vedurumudi-Priyanka)  
 
