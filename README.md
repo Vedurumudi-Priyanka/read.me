@@ -1,4 +1,4 @@
-# read.me
+# README.md
 ### Hi there 👋, my name is Vedurumudi  Priyanka
 #### CS Student
 ![CS Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
